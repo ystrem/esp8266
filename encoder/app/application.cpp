@@ -1,9 +1,11 @@
+//Based on http://playground.arduino.cc/Main/RotaryEncoders :] Thanks
+
 #include <user_config.h>
 #include <SmingCore/SmingCore.h>
 
-#define encoder0PinA 4 //DT
-#define encoder0PinB 5 //CLK
-#define BTN 14		   //SW
+#define encoder0PinA 4	//DT
+#define encoder0PinB 5	//CLK
+#define BTN 14	//SW
 #define say(a) ( Serial.print(a) )
 int encoder0Pos = 0;
 
