@@ -15,5 +15,5 @@
         ]GPIO13|           |GPIO15[ 
         ]Vcc   |-----------|   GND[ 
         ---------------------------
-		  
+https://github.com/ystrem/esp8266/blob/master/ESP12_ACSI_PINOUT	  
 */
